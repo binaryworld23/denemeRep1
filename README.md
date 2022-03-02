@@ -6,3 +6,4 @@ Deneme için Yapıldı
 -- vscde ilkBranch 2. değişilklik yapıldı
 -- vscde ilkBranch 3. değişiklik
 -- vsc ilkranch 5. değişiklik
+-- vsc 2branch değişiklik
